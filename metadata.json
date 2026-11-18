@@ -1,0 +1,10 @@
+{
+  "name": "BharatSathi AI",
+  "description": "Real-time multilingual voice-powered agricultural and rural business agent powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
